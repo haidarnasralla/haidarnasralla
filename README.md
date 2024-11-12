@@ -1,11 +1,12 @@
 ## Hi there!👋 I'm Haidar - and I'm a software developer based in Manchester, UK.
 
+🛠️ **Technical Skills: JavaScript (ES6+), TypeScript, Python, C, Max | Node.js, Express, NestJS, Firebase | React, React Native, HTML, CSS | SQL, PostgreSQL | TDD, Jest, Supertest, Playwright | Cloudflare, Netlify, Render, AWS | Agile (XP, Scrum, pair programming), AI/LLMs (LangChain, Ollama)**
+
 - 🔭 I’m currently looking for a junior developer role. Can you help? [Connect with me on LinkedIn!](https://www.linkedin.com/in/haidarnasralla/)
 - 🏗️ I'm currently building a portfolio website - watch this space!
 - 🌱 I’m currently learning python
 - 📫 You can reach me by email on heidernasralla AT gmail DOT com
 - ⚡ Fun fact: I'm a classically trained musician - and I've performed with [the worlds oldest orchestra](https://www.operan.se/en/about-the-opera/royal-swedish-orchestra/)!
-- 🛠️ **Technical Skills: JavaScript (ES6+), TypeScript, Python, C, Max | Node.js, Express, NestJS, Firebase | React, React Native, HTML, CSS | SQL, PostgreSQL | TDD, Jest, Supertest, Playwright | Cloudflare, Netlify, Render, AWS | Agile (XP, Scrum, pair programming), AI/LLMs (LangChain, Ollama)**
 
 <!--
 **haidarnasralla/haidarnasralla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
