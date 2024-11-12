@@ -4,8 +4,8 @@
 
 - 🔭 I’m looking for a junior developer job. Can you help? [Connect with me on LinkedIn!](https://www.linkedin.com/in/haidarnasralla/)
 - 🏗️ I'm currently building a portfolio website - watch this space!
-- 🌱 I’m learning Python 🐍 
-- 📫 You can reach me by email on **heidernasralla AT gmail DOT com**
+- 🌱 Right now I’m learning Python 🐍 
+- 📫 You can reach me by email at **heidernasralla AT gmail DOT com**
 - ⚡ Fun fact: I'm a classically trained musician - and I've performed with [the worlds oldest orchestra](https://www.operan.se/en/about-the-opera/royal-swedish-orchestra/)!
 
 <!--
