@@ -1,4 +1,4 @@
-## Hi there!👋 I'm Haidar - and I'm a software developer based in Manchester, UK.
+## Hi there!👋 I'm Haidar - I'm a software developer based in Manchester, UK.
 
 🛠️ **Technical Skills: JavaScript (ES6+), TypeScript, Python, C, Max | Node.js, Express, NestJS, Firebase | React, React Native, HTML, CSS | SQL, PostgreSQL | TDD, Jest, Supertest, Playwright | Cloudflare, Netlify, Render, AWS | Agile (XP, Scrum, pair programming), AI/LLMs (LangChain, Ollama)**
 
