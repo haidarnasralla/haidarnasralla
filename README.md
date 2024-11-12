@@ -2,7 +2,7 @@
 
 🛠️ **Technical Skills: JavaScript (ES6+), TypeScript, Python, C, Max | Node.js, Express, NestJS, Firebase | React, React Native, HTML, CSS | SQL, PostgreSQL | TDD, Jest, Supertest, Playwright | Cloudflare, Netlify, Render, AWS | Agile (XP, Scrum, pair programming), AI/LLMs (LangChain, Ollama)**
 
-- 🔭 I’m looking for a junior developer job. Can you help? [Connect with me on LinkedIn!](https://www.linkedin.com/in/haidarnasralla/)
+- 🔭 I’m looking for a role as a **junior software developer**. Can you help? [Connect with me on LinkedIn!](https://www.linkedin.com/in/haidarnasralla/)
 - 🏗️ I'm currently building a portfolio website - watch this space!
 - 🌱 Right now I’m learning Python 🐍 
 - 📫 You can reach me by email at **heidernasralla AT gmail DOT com**
