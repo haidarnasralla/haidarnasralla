@@ -6,5 +6,5 @@
 - 📜 You can see a copy of my CV [here](https://drive.google.com/file/d/1mxJYJTmkQSOtQTO23nRMznoxQB-KnQy6/view?usp=drive_link)
 - 🏗️ I'm currently building a portfolio website - watch this space!
 - 🌱 Right now I’m learning Python 🐍 
-- 📫 You can reach me by email at **heidernasralla AT gmail DOT com**
+- 📫 You can reach me by email at **haidaralinasralla AT gmail DOT com**
 - ⚡ Fun fact: I'm a classically trained musician - and I've performed with [the worlds oldest orchestra](https://www.operan.se/en/about-the-opera/royal-swedish-orchestra/)!
