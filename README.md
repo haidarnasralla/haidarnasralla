@@ -3,7 +3,6 @@
 🛠️ **Technical Skills: JavaScript (ES6+), TypeScript, Python, C, Max | Node.js, Express, NestJS, Firebase | React, React Native, HTML, CSS | SQL, PostgreSQL | TDD, Jest, Supertest, Playwright | Cloudflare, Netlify, Render, AWS | Agile (XP, Scrum, pair programming), AI/LLMs (LangChain, Ollama)**
 
 - 🔭 I’m looking for a role as a **junior software developer**. Can you help? [Connect with me on LinkedIn!](https://www.linkedin.com/in/haidarnasralla/)
-- 📜 You can see a copy of my CV [here](https://drive.google.com/file/d/11cpukNMX5uFpkVCFuStzAJyTFS30TK49/view?usp=drive_link)  
 - 🏗️ I'm currently building a portfolio website - watch this space!
 - 🌱 Right now I’m learning Python 🐍 and machine learning 🤖🧠
 - 📫 You can reach me by email at **haidar.ali.nasralla AT gmail DOT com**
