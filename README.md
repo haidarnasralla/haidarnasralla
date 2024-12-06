@@ -5,5 +5,5 @@
 - 🔭 I’m looking for a role as a **junior software developer**. Can you help? [Connect with me on LinkedIn!](https://www.linkedin.com/in/haidarnasralla/)
 - 🏗️ I'm currently building a portfolio website - watch this space!
 - 🌱 Right now I’m learning Python 🐍 and machine learning 🤖🧠
-- 📫 You can reach me by email at **haidar.ali.nasralla AT gmail DOT com**
+- 📫 You can reach me by email at **haidar DOT ali DOT nasralla AT gmail DOT com**
 - ⚡ Fun fact: I'm a classically trained musician - and I've performed with [the worlds oldest orchestra](https://www.operan.se/en/about-the-opera/royal-swedish-orchestra/)!
