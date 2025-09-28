@@ -2,6 +2,6 @@
 
 - 🔭 I work mostly with TypeScript, Python and .NET/C#. [Let's connect on LinkedIn!](https://www.linkedin.com/in/haidarnasralla/)
 - 🏗️ I'm currently building an online sonic installation called [HELIOS](https://heli0s.netlify.app/) ☀️🔊👂🏽
-- 🌱 Right now I’m Arduino and machine learning 🤖🧠
+- 🌱 Right now I'm learning Arduino and machine learning 🤖🧠
 - 📫 You can reach me by email at **haidar DOT ali DOT nasralla AT gmail DOT com**
 - ⚡ Fun fact: I'm a classically trained musician - and I've performed with [the worlds oldest orchestra](https://www.youtube.com/watch?v=ffqp3uyB7xg)!
