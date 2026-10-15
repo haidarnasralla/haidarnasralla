@@ -1,4 +1,4 @@
-## Hi there!👋 I'm Haidar - I'm a software developer based in Manchester, UK.
+## Hi there!👋 I'm Haidar - I'm a software engineer and creative technologist based in Manchester, UK.
 
 - 🔭 I work mostly with TypeScript, Python and .NET/C#. [Let's connect on LinkedIn!](https://www.linkedin.com/in/haidarnasralla/)
 - ☀️ I'm currently building an online sonic installation called [𒀭𒌓 ＵＴＵ](https://solarwindchi.me) ☀️🔊👂🏽
